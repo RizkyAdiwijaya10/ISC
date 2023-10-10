@@ -7,5 +7,10 @@ public class Day2 {
         String prodi = "INFORMATIKA";
         String NIM = "D0222045";
         
+        System.out.println("Nama :"+nama);
+        System.out.println("Umur :"+umur);
+        System.out.println("Program Study :"+prodi);
+        System.out.println("NIM :"+NIM);
+        
     }
 }
