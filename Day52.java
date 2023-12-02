@@ -11,7 +11,7 @@ public class Day52 {
         System.out.print("masukkan nilai b : ");
         b = sc.nextInt();
         hasil = (a == b);
-        System.out.println("apakah a sama == b? " + hasil);
+        System.out.println("apakah a == b? " + hasil);
         System.out.print("masukkan nilai a : ");
         a = sc.nextInt();
         System.out.print("masukkan nilai b : ");
