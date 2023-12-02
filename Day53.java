@@ -9,8 +9,8 @@ public class Day53 {
         int a = sc.nextInt();
         System.out.print("masukkan nilai b : ");
         int b = sc.nextInt();
-        boolean hasil1 = (a == b || a != b);
-        System.out.println("apakah a sama == b? " + hasil1);
+        boolean hasil1 = (a == b);
+        System.out.println("apakah a == b? " + hasil1);
         
         System.out.print("masukkan nilai a : ");
         int c = sc.nextInt();
